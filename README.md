@@ -2,7 +2,7 @@ This is a script to remove unnecessary Apps and Services from the Yogabook C930 
 
 It can be run using:
 
-<code>Set-ExecutionPolicy Bypass -Scope Process; .\yogabook-debloat-merged.ps1</code>|
+<code>Set-ExecutionPolicy Bypass -Scope Process; .\yogabook-debloat-merged.ps1</code>
 
 From Powershell or windows terminal.
 
