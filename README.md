@@ -11,3 +11,5 @@ It first creates a restore point before proceeding.
 Check the script for the Apps its removes and the services it stops and commment out any you do not want removed or stopped.
 
 This works irrespective as to whether you upgrade your device from Windows 10 to Windows 11.
+
+Use at your own risk.
